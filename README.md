@@ -5,4 +5,6 @@ Hi folks 👋 I am a full-stack website developer proficient in Angular and Asp.
 
 ### Touch me on Linkedin: [JonathanNgo](https://www.linkedin.com/in/jonathan-ngo148/?fbclid=IwAR0ddBOeNEedryN5kAXRTA-DLGcjdwPaX1CBEqdCDvkjw81RQLxCrXBnyrc)
 
+### My Personal Github: [JonathanNgo](https://github.com/trongngo148)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrongNgoRDY&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
